@@ -1,0 +1,16 @@
+@media screen and (max-width: 800px) {
+    .cards{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        margin: auto;
+        width: 50%;
+        height: 800px;
+        margin-top: 30px;
+    }
+    .card{
+        margin-top: 30px;
+    }
+}
+.col{
+    width: 100px;
+}
